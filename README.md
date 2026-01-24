@@ -43,7 +43,7 @@ It showcases my journey from a **Java Tutor** to a **Full-Stack Developer** with
 > A quick look at the portfolio design, layout, and UI.
 
 ### 🏠 Home / Hero Section
-![Hero Section]()
+![Hero Section](./src/Homepage.png)
 
 ### 👩‍💻 About & Skills Section
 ![About and Skills](./screenshots/about-skills.png)
