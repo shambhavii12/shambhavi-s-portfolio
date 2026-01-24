@@ -46,16 +46,20 @@ It showcases my journey from a **Java Tutor** to a **Full-Stack Developer** with
 ![Hero Section](./src/Homepage.png)
 
 ### 👩‍💻 About & Skills Section
-![About and Skills](./screenshots/about-skills.png)
+![About](./src/About Section.png)
+![Skills](./src/Skills Section.png)
 
 ### 💼 Experience Section
-![Experience Section](./screenshots/experience.png)
+![Experience](./src/Experience Section.png)
 
 ### 🚀 Projects Section
-![Projects Section](./screenshots/projects.png)
+![Projects](./src/Project Section.png)
+
+### 🤝 Social Media Connectivity
+![Social Media](./src/Social Connectivity.png)
 
 ### 📬 Contact Section
-![Contact Section](./screenshots/contact.png)
+![Contact](./src/Contact Form.png)
 
 ---
 
