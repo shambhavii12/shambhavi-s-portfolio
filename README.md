@@ -13,7 +13,7 @@ A **modern, animated, and tech-forward personal portfolio website** built to sho
 - [Core Sections](#-core-sections)
 - [Screenshots](#-screenshots)
 - [Featured Projects](#-featured-projects)
-- [Tech-Stack](#-tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Security & Reliability](#-security--reliability)
 
 ---
@@ -79,7 +79,7 @@ It showcases my journey from a **Java Tutor** to a **Full-Stack Developer** with
 
 ---
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 - ⚛️ React + Vite  
