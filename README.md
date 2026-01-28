@@ -11,7 +11,7 @@ A **modern, animated, and tech-forward personal portfolio website** built to sho
 
 - [Project Overview](#-project-overview)
 - [Core Sections](#-core-sections)
-- [Screenshot](#-screenshot)
+- [Screenshots](#-screenshots)
 - [Featured Projects](#-featured-projects)
 - [Tech Stack](#-tech-stack)
 - [Security & Reliability](#-security--reliability)
